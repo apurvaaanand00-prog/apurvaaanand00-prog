@@ -113,6 +113,9 @@ A Passionate Computer Science Student from India 🇮🇳
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">

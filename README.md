@@ -91,11 +91,17 @@ A Passionate Computer Science Student from India 🇮🇳
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/apurvaaanand00-prog">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
+  <a href="https://github.com/apurvaaanand00-prog" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/apurva-anand-4a9b363b0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:apurvaaanand00@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
+  </a>
 </p>
 
 ---

@@ -80,3 +80,8 @@ A Passionate Computer Science Student from India 🇮🇳
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
+Set up the initial GitHub profile README.
+
+Include a clean introduction and profile structure.
+
+This serves as the foundation for future enhancements.

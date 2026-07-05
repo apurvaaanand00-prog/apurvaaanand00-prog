@@ -75,20 +75,8 @@ A Passionate Computer Science Student from India 🇮🇳
 
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
----
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 
@@ -125,3 +113,9 @@ A Passionate Computer Science Student from India 🇮🇳
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </p>
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
+---

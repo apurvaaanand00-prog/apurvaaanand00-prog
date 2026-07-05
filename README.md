@@ -31,3 +31,52 @@ A Passionate Computer Science Student from India 🇮🇳
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode,mysql" />
 </p>
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=apurvaaanand00-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvaaanand00-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=apurvaaanand00-prog&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apurvaaanand00-prog&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=apurvaaanand00-prog&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>

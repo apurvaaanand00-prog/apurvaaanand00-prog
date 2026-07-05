@@ -80,8 +80,48 @@ A Passionate Computer Science Student from India 🇮🇳
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
-Set up the initial GitHub profile README.
+---
 
-Include a clean introduction and profile structure.
+## 👀 Profile Views
 
-This serves as the foundation for future enhancements.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=apurvaaanand00-prog&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python
+- 📚 Data Structures & Algorithms
+- 🌐 HTML • CSS • JavaScript
+- ⚡ Git & GitHub
+- 🚀 Open Source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/apurvaaanand00-prog">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/apurvaaanand00-prog/apurvaaanand00-prog/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</p>
